@@ -7,3 +7,4 @@ static/admin/*.bundle.*
 yarn-error.log
 .next
 .jsconfig.json
+.vscode

@@ -1,4 +1,36 @@
 
 @tailwind base;
 @tailwind components;
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('/fonts/Merriweather-Light') format('ttf');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('/fonts/Merriweather-Regular') format('ttf');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('/font/Merriweather-Italic') format('ttf');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('/fonts/Merriweather-Bold') format('ttf');
+}
+
 @tailwind utilities;
