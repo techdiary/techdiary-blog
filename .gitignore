@@ -8,3 +8,5 @@ yarn-error.log
 .next
 .jsconfig.json
 .vscode
+# Local Netlify folder
+.netlify
